@@ -12,3 +12,4 @@ int main()
 	printf("Quer tc?\n");
 	return 0;
 }
+
